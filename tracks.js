@@ -5,7 +5,7 @@ var TRACKS = [
   { file:"02.mp3", cover:"covers/02.jpg", title:"공놀이", artist:"참깨와 솜사탕", work:"실시간의 당신", text:" 어쩌면 우리가 서로를 앓아줄 수 있는 유일한 사람일지도 모르지 않냐고.\n그러니까 나는 당신에게 그 음악을 들려주고 싶지 않았다고." },
   { file:"03.mp3", cover:"covers/03.jpg", title:"저기요", artist:"산보", work:"마지막에 마지막", text:"시류는, 시대는 누군가를 향해 문을 열어주는 것이 아니었다. 흐르면 흐를수록 틈을 좁히는 닫히는 문이었다. 붙잡을 문고리조차 없이." },
   { file:"04.mp3", cover:"covers/04.jpg", title:"죽지 않은 연인에게", artist:"데이먼스 이어", work:"단칸방", text:"가질 수 있는 것보다 가질 것이 많았다\n그 중에 너는 가지고 싶었던 것\n그런데도 그 중 가장 부피가 크다" },
-{ file:"05.mp3", cover:"covers/05.jpeg", title:"Evergreen", artist:"Yutaka Hirasaka", work:"한 시의 연인", text:"조금 더 많은 그를 알았을까\n\n가끔은 억세지고\n가끔은 미워지고\n가끔은 얄궂어지는\n\n아끼는 것을 바라보는 그의 표정을 알았을까" },
+{ file:"05.mp3", cover:"covers/05.jpeg", title:"Evergreen", artist:"Yutaka Hirasaka", work:"한 시의 연인", text:"가끔은 억세지고\n가끔은 미워지고\n가끔은 얄궂어지는\n\n아끼는 것을 바라보는 그의 표정을 알았을까" },
 { file:"06.mp3", cover:"covers/06.jpg", title:"マヨイガ", artist:"羊文学", work:"다음 정류장", text:"내 수많은 다음 정류장들이 고백이었다는 걸\n너는 모르지\n전화를 거는데 받지를 않는다\n너는 버스 뒤를 바삐 달리고 있을 것이다" },
 { file:"07.mp3", cover:"covers/07.jpeg", title:"바람", artist:"유다빈밴드", work:"어제 레몬이 죽었다", text:"레몬이 이길 수 있는 세상을 만들 거다\n그런 생각을 하다 보면\n나는 이미 졌다는 것을 체감한다" },
 { file:"08.mp3", cover:"covers/08.jpeg", title:"언제나 여름", artist:"라쿠나", work:"빨래", text:"언젠가 우리는\n같은 물기에 젖어 같은 시간에 마른 적이\n있었을 텐데" },
